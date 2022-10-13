@@ -1,4 +1,4 @@
-nname: Deploy Storybook
+name: Deploy Storybook
 
 on:
   push:
